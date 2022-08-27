@@ -54,15 +54,15 @@ function PrayerTime() {
       break;
     case "October":
       window.location.href =
-        "https://ca.mohid.co/on/windsor/abm/masjid/widget/api/index/?v=prayercalendar&date_from=2022-10-1&date_to=2022-10-31&show_iqamah=Y";
+        "https://ca.mohid.co/on/windsor/abm/masjid/widget/api/index/?v=prayercalendar&date_from=2022-10-1&date_to=2022-10-31&show_iqamah=N";
       break;
     case "November":
       window.location.href =
-        "https://ca.mohid.co/on/windsor/abm/masjid/widget/api/index/?v=prayercalendar&date_from=2022-11-1&date_to=2022-11-31&show_iqamah=Y";
+        "https://ca.mohid.co/on/windsor/abm/masjid/widget/api/index/?v=prayercalendar&date_from=2022-11-1&date_to=2022-11-31&show_iqamah=N";
       break;
     case "December":
       window.location.href =
-        "https://ca.mohid.co/on/windsor/abm/masjid/widget/api/index/?v=prayercalendar&date_from=2022-12-1&date_to=2022-12-31&show_iqamah=Y";
+        "https://ca.mohid.co/on/windsor/abm/masjid/widget/api/index/?v=prayercalendar&date_from=2022-12-1&date_to=2022-12-31&show_iqamah=N";
       break;
 
     default:
